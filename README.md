@@ -7,21 +7,21 @@
 - scroll bar скоректирован
 
 # TrelloDarkMode
-Темная тема для Trello в вашем браузере
+Темная тема для Trello в вашем браузере  
 Только для Chrome браузеров и Trello
 
 ### Необходимые расширения
 
-[Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ru)
+[Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ru)  
 [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
 
 ### Инструкция
 После того как вы установите необходимые расширения
-1. Открываем Stylebot на панели сверху
+1. Открываем Stylebot на панели сверху  
 ![](https://i.ibb.co/zxRjq8J/Group-2.png)
 > Проверяем что trello.com активированно
 
-2. Вставляем код из файла config.css
+2. Вставляем код из файла config.css  
 ![](https://i.ibb.co/pQcD1Qx/Group-5.png)
 > Проверяем что trello.com активированно
 
