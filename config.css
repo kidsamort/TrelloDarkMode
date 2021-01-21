@@ -1,0 +1,67 @@
+/*header*/
+
+div.board-header.u-clearfix.js-board-header {
+    background-color: #1D2021;
+}
+
+div.aM_LprkMlpoWR-._2Wi5aGbyvdmxJ9 {
+    background-color: #131516;
+}
+
+div.u-fancy-scrollbar.js-no-higher-edits.js-list-sortable.ui-sortable {
+    background-color: #1D2021;
+}
+
+
+/*button*/
+
+.board-header-btn:not(.no-edit):not(.board-header-filter-btn-active) {
+    background-color: rgb(40, 43, 45) !important;
+}
+
+.aM_LprkMlpoWR- ._2ZNy4w8Nfa58d1 {
+    background-color: rgb(40, 43, 45) !important;
+}
+
+
+/*search*/
+
+input._1CyMivLdH2a8dA {
+    background-color: rgb(40, 43, 45) !important;
+}
+
+
+/*home card*/
+
+div.board-tile.mod-add {
+    background-color: rgb(40, 43, 45) !important;
+}
+
+
+/*url link*/
+
+div p a {
+    color: #2D9CDB;
+}
+
+
+/*scroll*/
+
+ ::-webkit-scrollbar-button {
+    background-color: #282B2D;
+}
+
+ ::-webkit-scrollbar-track {
+    background-color: #282B2D;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background-color: #17191A;
+}
+
+
+/*footer*/
+
+div.board-canvas {
+    background-color: #fff;
+}
